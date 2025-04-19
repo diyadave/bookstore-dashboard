@@ -19,3 +19,16 @@ A simple web scraping project to display analytics of books scraped from [Books 
 1. Clone the repository:
    ```bash
    git clone https://github.com/diyadave/bookstore-dashboard.git
+
+
+#Install dependencies
+pip install -r requirements.txt
+
+#Run the Streamlit app
+streamlit run book_dashboard.py
+
+👩‍💻 Author:
+Diya Dave - Data Science Intern
+
+#WebScraping #DataScience #Dashboard #Streamlit
+
